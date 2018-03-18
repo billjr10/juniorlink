@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2540", ESPN (Brasil)
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/1137.m3u8
+#EXTINF:0 type="stream" channelId="2578", ESPN Brasil
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/1135.m3u8
+#EXTINF:0 type="stream" channelId="1329", FOX Sports 1 [BR]
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/1140.m3u8
+#EXTINF:0 type="stream" channelId="170", Fox Sports 2 [BR]
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/1141.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Canal Brasil
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/524.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Canal Sony
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/523.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Combate
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/522.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Fox Life
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/520.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Globo News
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/519.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Gloob
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/517.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: HBO Family
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/516.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: HBO Plus
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/515.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: HBO Signature
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/514.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Multishow
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/513.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Action
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/502.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Cult
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/501.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Fun
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/500.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Premium
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/498.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Rede Brasil
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/768.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Canal Brasil
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/524.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Canal Sony
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/523.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Combate
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/522.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Fox Life
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/520.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Globo News
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/519.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Gloob
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/517.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: HBO Family
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/516.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: HBO Plus
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/515.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: HBO Signature
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/514.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Multishow
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/513.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Action
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/502.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Cult
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/501.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Fun
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/500.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: TC Premium
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/498.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR: Rede Brasil
+http://iptv.empirehost.cl:25461/live/k8KaEW7EEL/fk5RodcCIB/768.m3u8
